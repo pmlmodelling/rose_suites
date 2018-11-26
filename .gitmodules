@@ -1,0 +1,12 @@
+[submodule "wrf_suite"]
+	path = wrf_suite
+	url = git@gitlab.ecosystem-modelling.pml.ac.uk:pml-modelling/rose_wrf_setup.git
+[submodule "fvcom_suite"]
+	path = fvcom_suite
+	url = git@gitlab.ecosystem-modelling.pml.ac.uk:pml-modelling/rose_fvcom_setup.git
+[submodule "download_suite"]
+	path = download_suite
+	url = git@gitlab.ecosystem-modelling.pml.ac.uk:mbe/rose_download_setup.git
+[submodule "pylag_suite"]
+	path = pylag_suite
+	url = git@gitlab.ecosystem-modelling.pml.ac.uk:pml-modelling/rose_pylag_setup.git
