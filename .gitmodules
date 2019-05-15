@@ -13,3 +13,6 @@
 [submodule "rose_regrid_setup"]
 	path = rose_regrid_setup
 	url = git@gitlab.ecosystem-modelling.pml.ac.uk:mbe/rose_regrid_setup.git
+[submodule "rose_housekeeping_setup"]
+	path = rose_housekeeping_setup
+	url = git@gitlab.ecosystem-modelling.pml.ac.uk:mbe/rose_housekeeping_setup.git
